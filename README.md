@@ -1,12 +1,2 @@
-# movie-seat-booking
-
-Live Project View : https://movie-seat-booking-2021.netlify.app/
-
-Page One
-![alt text](https://i.ibb.co/PCJk7Gc/screencapture-movie-seat-booking-2021-netlify-app-playing-html-2021-02-20-15-10-33.png)
-
-Page Two
-![alt text](https://i.ibb.co/nPf0HM6/screencapture-movie-seat-booking-2021-netlify-app-booking-html-2021-02-20-15-10-05.png)
-
-Page Three
-![alt text](https://i.ibb.co/gS51gCY/screencapture-movie-seat-booking-2021-netlify-app-2021-02-20-15-10-20.png)
+The Movie Ticket Booking is simply in HTML5, CSS, canvas, and JavaScript. Taking about the features of this project, there is the seat booking page with a number of available and booked seats. The user can select the movie to watch that is shown with its price. Also, you can select the seats for booking which will be displayed in blue color. After the booking is done, you can see your total booked seat with the total price to be paid at the bottom.
+This project includes a lot of javascript for making validations to certain parts of the project.
